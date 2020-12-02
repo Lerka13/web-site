@@ -1,0 +1,16 @@
+header {
+  background-color: #b0c8ec;
+}
+header .navbar {
+  height: 80px;
+}
+header .navbar .navbar-brand {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 900;
+}
+header .navbar .nav-link {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #200a987d;
+}
